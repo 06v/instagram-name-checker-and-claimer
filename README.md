@@ -2,7 +2,7 @@
 
 This is a simple to use Checker and Claimer written in Python aiming to check Usernames for availability and if so to automatically claim them.
 
-![Instructions](https://github.com/deinstallation/instagram-name-checker-and-claimer/blob/main/insta.png)
+![Instructions](https://raw.githubusercontent.com/accomodate/instagram-name-checker-and-claimer/main/insta.png)
 
 ## Instructions
 
