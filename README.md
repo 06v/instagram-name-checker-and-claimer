@@ -49,6 +49,6 @@ This is 100% educational, please do not misuse this tool.
        
 ## Contact
 
-Discord: enes#1234
+Discord: enes#5555
 
 Feel free to create a Pull Request. If there is an Error please open an Issue so I can look into it a.s.a.p! :) 
